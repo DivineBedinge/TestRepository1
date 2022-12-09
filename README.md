@@ -1,6 +1,4 @@
 # ceci est un readme
-<<<<<<< HEAD
-feature2
-=======
-feature1
->>>>>>> main
+feature 1
+feature 2
+feature2.1
